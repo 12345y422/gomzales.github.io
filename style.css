@@ -1,0 +1,28 @@
+body {
+	background-color: skyblue;
+	margin-left: 33%;
+}
+h4 {
+	font-family: 'Comic Sans MS',cursive,sans-serif;
+	font-size: 122%;
+	font-weight: bold;
+	color: yellow;
+}
+h1{
+	color: yellow;
+	font-weight: bold;
+}
+p {
+	font-family: 'Comic Sans MS',cursive,sans-serif;
+	font-size: 122%;
+	font-weight: bolder;
+	color: yellow;
+}
+img {
+	max-width: 33%;
+	margin-left: 2%;
+}
+video {
+	margin-left: 3.5%;
+	font-size: 50%;
+}
